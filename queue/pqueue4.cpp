@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    priority_ pqueue<pair<int,int>>q;
+    priority_queue<pair<int,int>>q;
     q.push({1,2});
     q.push({2,3});
     q.push({2,4});

@@ -1,5 +1,5 @@
 /* Bismillahir Rahmanir Rahim */
-
+//not solved
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -44,6 +44,8 @@ void primegen(int n)
 int main()
 {
     optimize();
+
 }
+
 
 

@@ -13,6 +13,7 @@ using namespace std;
 #define endl '\n'
 #define pb push_back
 #define optimize()ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+#define MOD = 10000000007
 
 const int mx = 1e6+123;
 vector<long long>prime;

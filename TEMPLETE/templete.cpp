@@ -47,13 +47,16 @@ void primegen(int n)
 
 int main()
 {
+
     optimize();
+
+
 
     int t;
     cin>>t;
     while(t--)
     {
-
+        cout<<1+3<<endl;
     }
 
 }
